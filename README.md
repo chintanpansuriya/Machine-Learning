@@ -1,18 +1,18 @@
 # Machine-Learning
 
-Projects List
+##Projects List
 
-1_EDA
+##1_EDA
 
   •	Haberman’s Canser Servival Dataset
 
-Classification
+##Classification
 
   •	Titanic Survival Dataset
 
   •	Churn Modelling
 
-NLP
+##NLP
   
   •	SMS Spam Detection
   
@@ -22,7 +22,7 @@ NLP
   
     2. Using Roberta
 
-Regression
+##Regression
   
   •	House price predication
   
