@@ -1,29 +1,23 @@
 # Machine-Learning
 
-##Projects List
+## Projects List
+## 1_EDA
 
-##1_EDA
+- Haberman’s Canser Servival Dataset
 
-  •	Haberman’s Canser Servival Dataset
+## Classification
 
-##Classification
+- Titanic Survival Dataset
+- Churn Modelling
 
-  •	Titanic Survival Dataset
+## NLP
 
-  •	Churn Modelling
+- SMS Spam Detection
+- Twiter Sentiment Extrection 
+  - Using Custom Function
+  - Using Roberta
 
-##NLP
-  
-  •	SMS Spam Detection
-  
-  •	Twiter Sentiment Extrection 
-  
-    1. Using Custom Function
-  
-    2. Using Roberta
+## Regression
 
-##Regression
-  
-  •	House price predication
-  
-  •	Big mart sales prediction
+- House price predication
+- Big mart sales prediction
