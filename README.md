@@ -1,7 +1,7 @@
 # Machine-Learning
 
 ## Projects List
-## 1_EDA
+## EDA
 
 - Haberman’s Canser Servival Dataset
 
