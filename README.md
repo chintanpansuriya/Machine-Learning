@@ -3,7 +3,7 @@
 ## Projects List
 ## EDA
 
-- Haberman’s Canser Servival Dataset
+- Haberman’s Cancer Servival Dataset
 
 ## Classification
 
