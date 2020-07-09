@@ -21,3 +21,4 @@
 
 - House price predication
 - Big mart sales prediction
+- Used cars price prediction
